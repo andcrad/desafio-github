@@ -1,4 +1,4 @@
-# desafio-github
+# desafio-Git/Github
 Repositório criado para o desafio de projeato.
 
 ## Link Úteis 
